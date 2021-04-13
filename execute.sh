@@ -1,4 +1,3 @@
 #!/bin/sh
 sudo echo h
-SLPT=600
-export SLPT
+declare -g SLPT=600
