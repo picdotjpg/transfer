@@ -1,1 +1,0 @@
-/give @p dirt{display:{Name:'{"text":"diamond block"}'}} 1
